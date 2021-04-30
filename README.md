@@ -1,4 +1,4 @@
-# quarkus-proto1-gt
+# apollo-proto1-gt
 
 This is a gateway used to aggregate different subgraphs of GraphQL API making use of Apollo Federation.
 
