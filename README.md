@@ -1,5 +1,7 @@
 # quarkus-proto1-gt
 
+This is a gateway used to aggregate different subgraphs of GraphQL API making use of Apollo Federation.
+
 ## Development docker image
 The difference between production and development docker image is in command. The development image needs volume to share the source with host machine.
 
